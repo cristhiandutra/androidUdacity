@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">The Guadian News</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_news_found">No news found.</string>
+    <string name="thumbnail">Thumbnail</string>
+
+    <!-- The HTTP Request Method -->
+    <string name="http_request_method" translatable="false">GET</string>
+
+    <!-- The Guadian API query -->
+    <string name="query_api_key" translatable="false">api-key</string>
+    <string name="query_api_key_value" translatable="false">test</string>
+    <string name="query_section" translatable="false">section</string>
+    <string name="query_section_value" translatable="false">games</string>
+    <string name="query_show_fields" translatable="false">show-fields</string>
+    <string name="query_show_fields_value" translatable="false">thumbnail</string>
+    <string name="news_settings">News Settings</string>
+
+    <!-- Settings String -->
+    <string name="settings">Settings</string>
+
+    <!-- Page Size Settings String -->
+    <string name="settings_page_size_key" translatable="false">page_size</string>
+    <string name="settings_page_size_label">Page Size</string>
+    <string name="settings_page_size_default" translatable="false">10</string>
+    <string name="query_page_size">page-size</string>
+
+</resources>

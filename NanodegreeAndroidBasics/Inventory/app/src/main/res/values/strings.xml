@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <!-- Menu Actions -->
+    <string name="action_delete_all_products">Delete All Products</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <!-- Editor Activity -->
+    <string name="editor_insert_product_successful">Product saved</string>
+    <string name="editor_insert_product_failed">Error with saving product</string>
+    <string name="editor_activity_title_new_product">Add Product</string>
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+    <string name="editor_update_product_successful">Product Edited</string>
+    <string name="editor_update_product_failed">Error with editing Product</string>
+    <string name="editor_delete_product_successful">Product deleted</string>
+    <string name="editor_delete_product_failed">Error with deleting Product</string>
+    <string name="editor_category_overview">Overview</string>
+    <string name="editor_category_quantity">Quantity</string>
+
+    <!-- Hints -->
+    <string name="hint_product_name">Name</string>
+    <string name="hint_product_price">Price</string>
+
+    <string name="product_name_validation">Product requires a name</string>
+    <string name="product_photo_validation">Product requires a photo</string>
+    <string name="product_supplier_validation">Product requires a Supplier E-mail</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="empty_view_text">Get started by adding a Product</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="order_more">Order More</string>
+    <string name="order_email_subject">Order</string>
+    <string name="product">Product:</string>
+    <string name="photo">Photo</string>
+    <string name="sell">sell</string>
+    <string name="_0">0</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="validation_message_stock">Stock quantity can not be less than zero</string>
+    <string name="editor_category_supplier">Supplier</string>
+</resources>

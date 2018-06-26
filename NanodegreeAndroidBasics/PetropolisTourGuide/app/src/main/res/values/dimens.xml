@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="local_item_width">100dp</dimen>
+    <dimen name="local_item_height">100dp</dimen>
+    <dimen name="local_item_title_text_size">18sp</dimen>
+    <dimen name="local_item_sub_title_text_size">16sp</dimen>
+    <dimen name="local_item_image_padding">10dp</dimen>
+</resources>

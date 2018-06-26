@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guia Turístico de Petrópolis</string>
+
+    <string name="museums">Museus</string>
+    <string name="restaurants">Restaurantes</string>
+    <string name="attractions">Atrações</string>
+    <string name="parks">Parques</string>
+
+    <!-- Attractions -->
+    <string name="attractions_catedral_sao_pedro">Catedral de São Pedro de Alcântara</string>
+    <string name="attractions_palacio_cristal">Palácio de Cristal</string>
+    <string name="attractions_quatorze_bis">Praça 14 BIS</string>
+    <string name="attractions_obelisco">Obelisco</string>
+    <string name="attractions_trono_fatima">Trono de Fátima</string>
+    <string name="attractions_praca_liberdade">Praça da Liberdade</string>
+    <string name="attractions_palacio_quitandinha">Palácio Quitandinha</string>
+
+    <!-- Museums -->
+    <string name="museums_imperial">Museu Imperial</string>
+    <string name="museums_santos_dumont">Museu Santos Dumont</string>
+    <string name="museums_stefan_zweig">Museu Stefan Zweig</string>
+    <string name="museums_casa_colono">Museu Casa do Colono</string>
+    <string name="museums_cera">Museu de Cera</string>
+
+    <!-- Parks -->
+    <string name="parks_serra_dos_orgaos">Parque Nacional da Serra dos Órgãos</string>
+    <string name="parks_cremerie">Parque Crémerie</string>
+    <string name="parks_municipal">Parque Natural Municipal</string>
+    <string name="parks_vale_do_amor">Vale do Amor</string>
+
+    <!-- Restaurants -->
+    <string name="restaurants_lago_sul">Churrascaria Lago Sul</string>
+    <string name="restaurants_bohemia">Cervejaria Bohemia</string>
+    <string name="restaurants_willemsen">Willemsen Confeitaria</string>
+    <string name="restaurants_tonis">Tonis Pizzaria</string>
+    <string name="restaurants_duettos">Duetto\'s Café e Bistrô</string>
+    <string name="restaurants_casa_dangelo">Casa D\'Angelo</string>
+    <string name="restaurants_casa_alemao">Casa do Alemão</string>
+
+</resources>

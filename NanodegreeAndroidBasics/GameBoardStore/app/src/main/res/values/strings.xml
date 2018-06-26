@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BoardGame Store</string>
+    <string name="store_name">Cri\'s Store</string>
+    <string name="cell_phone">(55) 24 988222880</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">cristhiandutra@gmail.com</string>
+    <string name="personal">Personal</string>
+    <string name="address">R. Cel. Veiga, 670 Petrópolis RJ</string>
+    <string name="address_name">Address</string>
+</resources>

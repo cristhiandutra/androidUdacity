@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">2014 World Cup quiz</string>
+
+    <string name="question1">1. Which groups of 2014 World Cup are correct?</string>
+    <string name="question1answerA">Italy, Costa Rica, England, Uruguay</string>
+    <string name="question1answerB">Italy, Germany, Ghana, Portugal</string>
+    <string name="question1answerC">Brazil, Cameroon, Mexico, Croatia</string>
+
+    <string name="question2">2. Who won the world cup?</string>
+    <string name="question2answerA">Germany</string>
+    <string name="question2answerB">Brazil</string>
+    <string name="question2answerC">Netherlands</string>
+
+    <string name="question3">3. What was the host nation?</string>
+    <string name="question3answerA">Canada</string>
+    <string name="question3answerB">South Africa</string>
+    <string name="question3answerC">Brazil</string>
+
+    <string name="question4">4. Score of Germany vs Brazil</string>
+    <string name="question4answerA">7–1 (Germany)</string>
+    <string name="question4answerB">2–0 (Germany)</string>
+    <string name="question4answerC">1–1 (Brazil won 3-2 on penalties)</string>
+
+    <string name="question5">5. Which teams were in the 2014 World Cup Final?</string>
+    <string name="germany">germany</string>
+    <string name="argentina">argentina</string>
+
+    <string name="verify">Verify</string>
+
+    <string name="answers_corrects">Congratulations, all the anwsers are correct.</string>
+    <string name="answers_incorrects">There are incorrects answers.</string>
+</resources>

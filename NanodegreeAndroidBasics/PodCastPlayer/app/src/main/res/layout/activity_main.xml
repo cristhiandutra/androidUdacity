@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/tool_bar_include"
+        layout="@layout/toolbar_layout" />
+
+    <ScrollView
+        android:id="@+id/podcast_playlist"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/podcast_play_bar"
+        android:layout_below="@id/tool_bar_include">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/podcast_linear_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/podcast"
+                    android:layout_width="@dimen/podcast_cover_width"
+                    android:layout_height="@dimen/podcast_cover_heigth"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/pod_cast_cover"
+                    android:contentDescription="@string/podquest_title" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/podcast_linear_layout"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="10dp"
+                android:text="@string/activity_main_obs"
+                android:textSize="@dimen/activity_text_view_size_obs" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <include layout="@layout/divider" />
+
+    <LinearLayout
+        android:id="@+id/podcast_play_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/podcast_play_bar"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="@dimen/podcast_cover_mini_width"
+            android:layout_height="@dimen/podcast_cover_mini_height"
+            android:layout_margin="5dp"
+            android:background="@drawable/pod_cast_245"
+            android:contentDescription="@string/podquest_title" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/podquest_245"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/podquest_title" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:contentDescription="@string/play"
+            app:srcCompat="@drawable/ic_play_arrow_black_24dp"
+            tools:ignore="VectorDrawableCompat" />
+
+    </LinearLayout>
+</RelativeLayout>

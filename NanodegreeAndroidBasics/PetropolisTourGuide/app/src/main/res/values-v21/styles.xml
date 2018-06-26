@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppBarStyle" parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+
+        <item name="android:elevation">0dp</item>
+    </style>
+</resources>

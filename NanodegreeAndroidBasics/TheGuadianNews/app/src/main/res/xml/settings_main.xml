@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/news_settings">
+
+    <EditTextPreference
+        android:defaultValue="@string/settings_page_size_default"
+        android:inputType="number"
+        android:selectAllOnFocus="true"
+        android:key="@string/settings_page_size_key"
+        android:title="@string/settings_page_size_label"/>
+
+</PreferenceScreen>

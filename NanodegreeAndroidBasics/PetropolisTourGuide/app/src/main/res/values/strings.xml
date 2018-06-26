@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Petrópolis Tour Guide</string>
+    
+    <string name="museums">Museums</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="attractions">Attractions</string>
+    <string name="parks">Parks</string>
+
+    <!-- Attractions -->
+    <string name="attractions_catedral_sao_pedro">Cathedral of Saint Peter of Alcantara</string>
+    <string name="attractions_palacio_cristal">Crystal Palace</string>
+    <string name="attractions_quatorze_bis">14 BIS Square</string>
+    <string name="attractions_obelisco">Obelisk</string>
+    <string name="attractions_trono_fatima">Fatima Shrine</string>
+    <string name="attractions_praca_liberdade">Liberty Square</string>
+    <string name="attractions_palacio_quitandinha">Quitandinha Palace</string>
+
+    <!-- Museums -->
+    <string name="museums_imperial">Imperial Museum</string>
+    <string name="museums_santos_dumont">Santos Dumont Museum</string>
+    <string name="museums_stefan_zweig">Stefan Zweig Museum</string>
+    <string name="museums_casa_colono">Settler\'s House Museum</string>
+    <string name="museums_cera">Wax Museum</string>
+
+    <!-- Parks -->
+    <string name="parks_serra_dos_orgaos">Serra dos Orgãos National Park</string>
+    <string name="parks_cremerie">Crémerie Park</string>
+    <string name="parks_municipal">Municipal Natural Park</string>
+    <string name="parks_vale_do_amor">Valley of Love</string>
+
+    <!-- Restaurants -->
+    <string name="restaurants_lago_sul">Lago Sul Steakhouse</string>
+    <string name="restaurants_bohemia">Bohemia Brewery</string>
+    <string name="restaurants_willemsen">Willemsen Bakery</string>
+    <string name="restaurants_tonis">Tonis Pizzaria</string>
+    <string name="restaurants_duettos">Duetto\'s Coffee and Bistrô</string>
+    <string name="restaurants_casa_dangelo">Casa D\'Angelo</string>
+    <string name="restaurants_casa_alemao">Casa do Alemão</string>
+
+    <!-- Attractions Address -->
+    <string name="attractions_catedral_sao_pedro_address">R. São Pedro Alcântara, 60 - Centro</string>
+    <string name="attractions_palacio_cristal_address">R. Alfredo Pachá, s/n - Centro</string>
+    <string name="attractions_quatorze_bis_address">Av. Roberto Silveira, 43 - Centro</string>
+    <string name="attractions_obelisco_address">Rua do Imperador, 553 - Centro</string>
+    <string name="attractions_trono_fatima_address">R. Padre Moreira - Valparaíso</string>
+    <string name="attractions_praca_liberdade_address">Praça Rui Barbosa - Centro</string>
+    <string name="attractions_palacio_quitandinha_address">Av. Ayrton Senna, 12 - Quitandinha</string>
+
+    <!-- Museums Address -->
+    <string name="museums_imperial_address">Rua da Imperatriz, 220 - Centro</string>
+    <string name="museums_santos_dumont_address">Rua do Encanto, 22 - Centro</string>
+    <string name="museums_stefan_zweig_address">R. Gonçalves Dias, 34 - Valparaíso</string>
+    <string name="museums_casa_colono_address">R. Cristovão Colombo, 1034 - Castelânea</string>
+    <string name="museums_cera_address">Rua Barão do Amazonas, 35 - Centro</string>
+
+    <!-- Parks Address -->
+    <string name="parks_serra_dos_orgaos_address">Estrada do Bonfim, s/n - Bonfim</string>
+    <string name="parks_cremerie_address">Estr. da Independência, s/n - Independência</string>
+    <string name="parks_municipal_address">Av. Ipiranga, 853 - Centro</string>
+    <string name="parks_vale_do_amor_address">Estr. do Mata Cavalo, s/n - Fazenda Inglesa</string>
+
+    <!-- Restaurants Address -->
+    <string name="restaurants_lago_sul_address">R. República da Argentina, 259 - Quitandinha</string>
+    <string name="restaurants_bohemia_address">R. Alfredo Pachá, 166 - Centro</string>
+    <string name="restaurants_willemsen_address">R. Visc. de Uruguai, 71 - Valparaíso</string>
+    <string name="restaurants_tonis_address">Rua do Imperador, 870 - Centro</string>
+    <string name="restaurants_duettos_address">R. da Imperatriz, 220 - Centro</string>
+    <string name="restaurants_casa_dangelo_address">Rua do Imperador, 700 - Centro</string>
+    <string name="restaurants_casa_alemao_address">Av. Ayrton Senna, 927 - Quitandinha</string>
+</resources>

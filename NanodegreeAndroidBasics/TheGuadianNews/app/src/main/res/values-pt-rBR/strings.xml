@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Noticias The Guadian</string>
+    <string name="no_internet_connection">Sem conexão com internet.</string>
+    <string name="no_news_found">Nenhuma notícia encontrada.</string>
+
+    <string name="news_settings">Configurações de Notícias</string>
+
+    <!-- Settings String -->
+    <string name="settings">Configurações</string>
+
+    <!-- Page Size Settings String -->
+    <string name="settings_page_size_label">Tamanho da Página</string>
+
+</resources>

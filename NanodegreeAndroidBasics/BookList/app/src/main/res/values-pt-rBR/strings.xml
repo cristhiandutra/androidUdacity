@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de Livros</string>
+    <string name="search">Pesquisar</string>
+    <string name="no_books_found">Nenhum livro encontrado.</string>
+    <string name="type_word_search">Digite uma palavra para pesquisar.</string>
+    <string name="no_internet_connection">Sem conexão com a internet.</string>
+    <string name="Cover">Capa</string>
+</resources>

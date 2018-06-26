@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">PodCastPlayer</string>
+    <string name="add_podcast">Add PodCast</string>
+    <string name="podquest_title">PodQuest</string>
+    <string name="podquest_description">PodQuest é um podcast sobre games com profissionais brasileiros da indústria internacional.
+        Gilliard Lopes (EA), Rafael Kuhnen (Gameloft), Fernando Secco (Bioware) e Igor de Castilho (Gameloft) conversam sobre games,
+        indústria e desenvolvimento, e recebem também outros profissionais convidados.</string>
+    <string name="podquest_245">PodQuest #245: Discutindo Violência nos Games</string>
+    <string name="podquest_245_description">
+        No PodQuest de hoje, Igor, Fernando e Gilliard atacam de frente uma questão profunda e polêmica: a violência nos games.
+        Porque existe, o que afeta, e como os desenvolvedores lidam com seus games que trazem tiros, socos, crimes hedion Gilliard Lopes, Rafael Kuhnen, Fernando Secco e Igor de Castilho
+    </string>
+    <string name="activity_main_obs">This is the main Activity, all activities can be acessed by here.
+        It contains the podcast playlist added by the user in option + in toolbar.
+        If the podcast cover selected the PodcastEpisodeActivity will open.
+        Is possible play the current episode selecting play button on bottom bar or select episode to access the PlayerActivity.
+        Picasso API can be used to load url images.
+        If the Donate button in toolbar is selected the DonateActivity will open.
+    </string>
+    <string name="activity_add_podcast_obs">This Activity is used to add a podcast from RSS Feed.
+        EARL (Easy Android RSS Library / https://github.com/einmalfel/Earl) can be used to read and store the Podcast RSS Feed.
+    </string>
+    <string name="activity_podcast_playlist_obs">This Activity shows the Podcast Episodes.
+        If the podcast cover selected the PodcastEpisodeActivity will open.
+        Is possible play the episode on play button and the PlayerActivity will open.
+    </string>
+    <string name="activity_player_obs">This Activity is used to play an episode.
+        Android MediaPlayer Framework can be used to stream the Podcast.
+    </string>
+    <string name="activity_donate_obs">This Activity is used for donation to improve the app.
+        Google Pay API can be used for this.
+    </string>
+    <string name="activity_podcast_episode_obs">This Activity is used to show the Podcast Episode information.</string>
+    <string name="play">Play</string>
+    <string name="inicial_time">00:00</string>
+    <string name="final_time">05:33</string>
+    <string name="rewind_button">rewind</string>
+    <string name="forward_button">forward</string>
+    <string name="donate">Donate</string>
+    <string name="donate_text">Help us to improve this app. Make your donation!</string>
+    <string name="add_rss">Add RSS</string>
+    <string name="add">Add</string>
+
+</resources>
